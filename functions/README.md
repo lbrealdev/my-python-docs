@@ -2,7 +2,7 @@
 
 
 
-### Intermediate Python Functions Series
+## Intermediate Python Functions Series by Stephen Gruppetta - [The Python Coding Book](https://thepythoncodingbook.com/blog/)
 
 #### Moving On From The Basics of Python Functions [#1 in Intermediate Python Functions Series]
 - https://thepythoncodingbook.com/2022/11/05/intermediate-python-functions-series-1/
