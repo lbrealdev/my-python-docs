@@ -1,7 +1,9 @@
-# Python functions
+# Python Functions
 
 
-## Intermediate Python Functions Series by [Stephen Gruppetta](https://twitter.com/s_gruppetta_ct) - [The Python Coding Book](https://thepythoncodingbook.com/blog/)
+## Intermediate Python Functions Series by [Stephen Gruppetta](https://twitter.com/s_gruppetta_ct)
+
+[The Python Coding Book](https://thepythoncodingbook.com/blog/)
 
 #### #1 in Python Functions Series - [Moving On From The Basics of Python Functions](https://thepythoncodingbook.com/2022/11/05/intermediate-python-functions-series-1/)
 
