@@ -3,6 +3,8 @@
 
 ## Python Classes and Object-Oriented Python Series by [Stephen Gruppetta](https://twitter.com/s_gruppetta_ct)
 
+- [Twitter thread link](https://twitter.com/s_gruppetta_ct/status/1644735622555504641)
+
 #### Year 1: [The OOP Mindset](https://twitter.com/s_gruppetta_ct/status/1641121936414736385)
 
 #### Year 2: [Defining Classes and Understanding Data Attributes](https://twitter.com/s_gruppetta_ct/status/1641474113624760321)
