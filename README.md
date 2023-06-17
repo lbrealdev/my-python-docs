@@ -10,6 +10,8 @@ This repository is a kind of documentation about my knowledge about Python, here
 
 <!-- TOC -->
 
-- [Python Functions](https://github.com/lbrealdev/0k-python/tree/main/functions)
-- [Python Classes and OOP](https://github.com/lbrealdev/0k-python/tree/main/OOP)
-- [Python Virtual Environments](https://github.com/lbrealdev/0k-python/tree/main/virtualenv)
+- [Python Functions](https://github.com/lbrealdev/0k-python/tree/main/python-functions)
+- [Python Classes and OOP](https://github.com/lbrealdev/0k-python/tree/main/python-OOP)
+- [Python Packaging and Dependency Management](https://github.com/lbrealdev/0k-python/tree/main/python-packaging)
+- [Python Virtual Environments](https://github.com/lbrealdev/0k-python/tree/main/python-virtualenvs)
+
