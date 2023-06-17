@@ -1,4 +1,4 @@
-# Python Classes and OOP ()
+# Python Classes and OOP
 
 
 ## Python Classes and Object-Oriented Python Series by [Stephen Gruppetta](https://twitter.com/s_gruppetta_ct)
