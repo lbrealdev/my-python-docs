@@ -12,4 +12,4 @@ This repository is a kind of documentation about my knowledge about Python, here
 <!-- TOC -->
 
 - [Python functions](https://github.com/lbrealdev/0k-python/tree/main/functions)
-- [Python virtualenvs](https://github.com/lbrealdev/0k-python/tree/main/virtualenv)
+- [Python virtual environments](https://github.com/lbrealdev/0k-python/tree/main/virtualenv)
