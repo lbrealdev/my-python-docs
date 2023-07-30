@@ -12,6 +12,6 @@ This repository is a kind of documentation about my knowledge about Python, here
 
 - [Python Functions](https://github.com/lbrealdev/0k-python/tree/main/python-functions)
 - [Python Classes and OOP](https://github.com/lbrealdev/0k-python/tree/main/python-OOP)
+- [Python Data Structures](https://github.com/lbrealdev/0k-python/tree/main/python-data-structure)
 - [Python Packaging and Dependency Management](https://github.com/lbrealdev/0k-python/tree/main/python-packaging)
 - [Python Virtual Environments](https://github.com/lbrealdev/0k-python/tree/main/python-virtualenvs)
-
