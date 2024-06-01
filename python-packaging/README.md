@@ -9,5 +9,5 @@
 
 ## Python package browser
 
-- [Pyoven](https://pyoven.org/)
+- [Oven](https://pyoven.org/)
 - [PyPi Browser](https://pypi-browser.org/)
