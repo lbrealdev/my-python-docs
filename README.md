@@ -8,6 +8,8 @@
 
 This repository is a kind of documentation about my knowledge about Python, here I describe things about the language, explanations, related links and so on.
 
+Python official page: https://www.python.org/
+
 <!-- TOC -->
 
 - [Python Functions](https://github.com/lbrealdev/0k-python/tree/main/python-functions)
