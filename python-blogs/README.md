@@ -45,6 +45,31 @@
 
 - [The difference between return and print in Python](https://www.pythonmorsels.com/print-vs-return/)
 
+### Test Driven
+> Website: https://testdriven.io/
+
+
+- [Clean Code in Python](https://testdriven.io/blog/clean-code-python/)
+
+### Pybit
+> Website: https://pybit.es/
+
+
+- [Python F-String Codes I Use Every Day](https://pybit.es/articles/python-f-string-codes-i-use-every-day/)
+
+### Gui Commits
+> Website: https://guicommits.com/
+
+
+- [Generic functions and generic classes in Python](https://guicommits.com/python-generic-type-function-class/)
+
+### Playful Python
+> Website: https://www.playfulpython.com/
+
+
+- [Environment Tools: PDM, Poetry and Rye](https://www.playfulpython.com/environment-tools-pdm-poetry-rye/)
+- [Supercharge your code with the match statement](https://www.playfulpython.com/supercharge-your-code-with-the-match-statement/)
+
 -------------
 
 ### Blogs from Python to Rust
