@@ -24,7 +24,7 @@
 - [`bytes`: The Lesser-Known Python Built-In Sequence • And Understanding UTF-8 Encoding](https://www.thepythoncodingstack.com/p/bytes-python-built-in-unicode-utf-8-encoding)
 
 ### Python Engineer
->> Website: https://www.python-engineer.com
+> Website: https://www.python-engineer.com
 
 - [How to count the occurrence of an element in a List in Python](https://www.python-engineer.com/posts/count-element-list/)
 
