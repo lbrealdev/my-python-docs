@@ -1,10 +1,9 @@
 # Python Virtual Environments
 
-
 <!-- TOC -->
 
 - [Python virtualenv]()
 
-### Python venv tools
+### Python virtual environment tools
 
 - [microenv](https://github.com/brettcannon/microvenv)
