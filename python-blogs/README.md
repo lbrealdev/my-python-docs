@@ -70,6 +70,12 @@
 - [Environment Tools: PDM, Poetry and Rye](https://www.playfulpython.com/environment-tools-pdm-poetry-rye/)
 - [Supercharge your code with the match statement](https://www.playfulpython.com/supercharge-your-code-with-the-match-statement/)
 
+## Bite code
+> Website: https://www.bitecode.dev/
+
+- [Python as a configuration language](https://www.bitecode.dev/p/python-as-a-configuration-language)
+- [Unexpected python traps for beginners](https://www.bitecode.dev/p/unexpected-python-traps-for-beginners)
+
 -------------
 
 ## Blogs from Python to Rust
