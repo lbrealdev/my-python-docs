@@ -17,3 +17,6 @@ Python official page: https://www.python.org/
 - [Python Data Structures](https://github.com/lbrealdev/0k-python/tree/main/python-data-structure)
 - [Python Packaging and Dependency Management](https://github.com/lbrealdev/0k-python/tree/main/python-packaging)
 - [Python Virtual Environments](https://github.com/lbrealdev/0k-python/tree/main/python-virtualenvs)
+- [Python Enhancement Proposals](https://github.com/lbrealdev/0k-python/blob/main/python-peps)
+- [Python Blogs](https://github.com/lbrealdev/0k-python/blob/main/python-blogs)
+

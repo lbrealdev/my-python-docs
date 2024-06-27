@@ -9,7 +9,8 @@
 - [Poetry](https://github.com/lbrealdev/0k-python/blob/main/python-packaging/poetry.md)
 - [Rye](https://github.com/lbrealdev/0k-python/blob/main/python-packaging/rye.md)
 - [Yen](https://github.com/lbrealdev/0k-python/blob/main/python-packaging/yen.md)
-- [PDM](https://github.com/pdm-project/pdm)
+- [PDM](https://github.com/lbrealdev/0k-python/blob/main/python-packaging/pdm.md)
+- [Packaged](https://github.com/lbrealdev/0k-python/blob/main/python-packaging/packaged.md)
 
 ## Python package browser
 
