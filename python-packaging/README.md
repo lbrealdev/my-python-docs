@@ -16,3 +16,4 @@
 
 - [Oven](https://pyoven.org/)
 - [PyPi Browser](https://pypi-browser.org/)
+- [PyPi Scout](https://pypiscout.com/)
