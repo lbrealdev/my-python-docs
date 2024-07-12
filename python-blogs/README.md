@@ -7,6 +7,7 @@
 - [Python's Built-in Exceptions: A Walkthrough With Examples](https://realpython.com/python-built-in-exceptions/)
 - [Ruff: A Modern Python Linter for Error-Free and Maintainable Code](https://realpython.com/ruff-python/)
 - [Python's assert: Debug and Test Your Code Like a Pro](https://realpython.com/python-assert-statement/)
+- [Python's property(): Add Managed Attributes to Your Classes](https://realpython.com/python-property/)
 
 ## Mathspp
 > Website: https://mathspp.com
@@ -38,6 +39,7 @@
 
 
 - [How to count the occurrence of an element in a List in Python](https://www.python-engineer.com/posts/count-element-list/)
+- [Enum in Python](https://www.python-engineer.com/posts/enums-python/)
 
 ## Python Morsels
 > Website: https://www.pythonmorsels.com/
@@ -50,6 +52,7 @@
 
 
 - [Clean Code in Python](https://testdriven.io/blog/clean-code-python/)
+- [Using HTMX with FastAPI](https://testdriven.io/blog/fastapi-htmx/)
 
 ## Pybit
 > Website: https://pybit.es/
@@ -87,4 +90,6 @@
 - [Joining Strings in Python: A "Huh" Moment](https://berglyd.net/blog/2024/06/joining-strings-in-python/)
 - [Predicting solar eclipses with Python](https://erikbern.com/2024/04/07/predicting-solar-eclipses-with-python)
 - [Modern Good Practices for Python Development](https://www.stuartellis.name/articles/python-modern-practices/)
-
+- [Python has too many package managers](https://dublog.net/blog/so-many-python-package-managers/)
+- [PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
+- [Annotating args and kwargs in Python](https://rednafi.com/python/annotate_args_and_kwargs/)
