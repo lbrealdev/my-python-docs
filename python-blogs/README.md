@@ -93,3 +93,4 @@
 - [Python has too many package managers](https://dublog.net/blog/so-many-python-package-managers/)
 - [PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
 - [Annotating args and kwargs in Python](https://rednafi.com/python/annotate_args_and_kwargs/)
+- [Creating a Simple Pastebin Service in Python and Flask](https://muhammadraza.me/2024/Simple-Pastebin-In-Python/)
