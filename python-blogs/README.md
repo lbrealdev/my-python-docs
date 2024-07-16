@@ -8,6 +8,7 @@
 - [Ruff: A Modern Python Linter for Error-Free and Maintainable Code](https://realpython.com/ruff-python/)
 - [Python's assert: Debug and Test Your Code Like a Pro](https://realpython.com/python-assert-statement/)
 - [Python's property(): Add Managed Attributes to Your Classes](https://realpython.com/python-property/)
+- [Using Python Optional Arguments When Defining Functions](https://realpython.com/python-optional-arguments/)
 
 ## Mathspp
 > Website: https://mathspp.com
@@ -46,6 +47,7 @@
 
 
 - [The difference between return and print in Python](https://www.pythonmorsels.com/print-vs-return/)
+- [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
 
 ## Test Driven
 > Website: https://testdriven.io/
