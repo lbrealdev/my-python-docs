@@ -9,6 +9,7 @@
 - [Python's assert: Debug and Test Your Code Like a Pro](https://realpython.com/python-assert-statement/)
 - [Python's property(): Add Managed Attributes to Your Classes](https://realpython.com/python-property/)
 - [Using Python Optional Arguments When Defining Functions](https://realpython.com/python-optional-arguments/)
+- [How Do You Choose Python Function Names?](https://realpython.com/python-function-names/)
 
 ## Mathspp
 > Website: https://mathspp.com
