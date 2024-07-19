@@ -10,6 +10,7 @@
 - [Python's property(): Add Managed Attributes to Your Classes](https://realpython.com/python-property/)
 - [Using Python Optional Arguments When Defining Functions](https://realpython.com/python-optional-arguments/)
 - [How Do You Choose Python Function Names?](https://realpython.com/python-function-names/)
+- [Python Mappings: A Comprehensive Guide](https://realpython.com/python-mappings/)
 
 ## Mathspp
 > Website: https://mathspp.com
