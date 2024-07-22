@@ -11,6 +11,7 @@
 - [Using Python Optional Arguments When Defining Functions](https://realpython.com/python-optional-arguments/)
 - [How Do You Choose Python Function Names?](https://realpython.com/python-function-names/)
 - [Python Mappings: A Comprehensive Guide](https://realpython.com/python-mappings/)
+- [Logging in Python](https://realpython.com/python-logging/)
 
 ## Mathspp
 > Website: https://mathspp.com
@@ -43,6 +44,7 @@
 
 - [How to count the occurrence of an element in a List in Python](https://www.python-engineer.com/posts/count-element-list/)
 - [Enum in Python](https://www.python-engineer.com/posts/enums-python/)
+- [How to debug Python apps inside a Docker Container with VS Code](https://www.python-engineer.com/posts/debug-python-docker/)
 
 ## Python Morsels
 > Website: https://www.pythonmorsels.com/
