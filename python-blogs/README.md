@@ -8,6 +8,10 @@
 - [Ruff: A Modern Python Linter for Error-Free and Maintainable Code](https://realpython.com/ruff-python/)
 - [Python's assert: Debug and Test Your Code Like a Pro](https://realpython.com/python-assert-statement/)
 - [Python's property(): Add Managed Attributes to Your Classes](https://realpython.com/python-property/)
+- [Using Python Optional Arguments When Defining Functions](https://realpython.com/python-optional-arguments/)
+- [How Do You Choose Python Function Names?](https://realpython.com/python-function-names/)
+- [Python Mappings: A Comprehensive Guide](https://realpython.com/python-mappings/)
+- [Logging in Python](https://realpython.com/python-logging/)
 
 ## Mathspp
 > Website: https://mathspp.com
@@ -40,12 +44,14 @@
 
 - [How to count the occurrence of an element in a List in Python](https://www.python-engineer.com/posts/count-element-list/)
 - [Enum in Python](https://www.python-engineer.com/posts/enums-python/)
+- [How to debug Python apps inside a Docker Container with VS Code](https://www.python-engineer.com/posts/debug-python-docker/)
 
 ## Python Morsels
 > Website: https://www.pythonmorsels.com/
 
 
 - [The difference between return and print in Python](https://www.pythonmorsels.com/print-vs-return/)
+- [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
 
 ## Test Driven
 > Website: https://testdriven.io/
@@ -93,3 +99,9 @@
 - [Python has too many package managers](https://dublog.net/blog/so-many-python-package-managers/)
 - [PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
 - [Annotating args and kwargs in Python](https://rednafi.com/python/annotate_args_and_kwargs/)
+- [Creating a Simple Pastebin Service in Python and Flask](https://muhammadraza.me/2024/Simple-Pastebin-In-Python/)
+- [Build a search index in Python](https://jamesg.blog/2024/07/16/build-a-search-index/)
+- [Resource management and generators in Python](https://samgeo.codes/python-generator-cleanup/)
+- [Free-threaded CPython is ready to experiment with!](https://labs.quansight.org/blog/free-threaded-python-rollout)
+- [Proper Python Project Structure 2024](https://matt.sh/python-project-structure-2024)
+
