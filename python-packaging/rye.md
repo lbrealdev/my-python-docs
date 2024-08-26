@@ -1,12 +1,12 @@
-# Rye: An Experimental Package Management Solution for Python
+# Rye: a Hassle-Free Python Experience
 
-Rye is an experimental endeavour to build a new type of packaging experience to Python inspired by rustup and cargo from Rust.
+Rye is a comprehensive project and package management solution for Python.
 
 ### Use
 
 Installing Rye:
 ```shell
-curl -sSf https://rye-up.com/get | RYE_INSTALL_OPTION="--yes" bash
+curl -sSf https://rye.astral.sh/get | RYE_INSTALL_OPTION="--yes" bash
 ```
 
 Add Shims to path:
@@ -14,7 +14,21 @@ Add Shims to path:
 echo 'source "$HOME/.rye/env"' >> ~/.bashrc
 ```
 
+Update Rye:
+```shell
+rye self update
+```
+
+Uninstalling Rye:
+```shell
+rye self uninstall
+```
+
 ### Source
 
-- Website: https://rye-up.com/
-- GitHub Repository: https://github.com/mitsuhiko/rye
+- Website: https://rye.astral.sh/
+- GitHub Repository: https://github.com/astral-sh/rye
+
+### Blogs
+
+- [Rye and uv: August is Harvest Season for Python Packaging](https://lucumr.pocoo.org/2024/8/21/harvest-season/)
