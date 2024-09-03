@@ -104,3 +104,4 @@
 - [Resource management and generators in Python](https://samgeo.codes/python-generator-cleanup/)
 - [Free-threaded CPython is ready to experiment with!](https://labs.quansight.org/blog/free-threaded-python-rollout)
 - [Proper Python Project Structure 2024](https://matt.sh/python-project-structure-2024)
+- [Layman's Guide to Python Built-in Functions](https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions/)
