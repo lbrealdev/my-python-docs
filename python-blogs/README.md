@@ -106,3 +106,4 @@
 - [Proper Python Project Structure 2024](https://matt.sh/python-project-structure-2024)
 - [Layman's Guide to Python Built-in Functions](https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions/)
 - [Production-ready Docker Containers with uv](https://hynek.me/articles/docker-uv/)
+- [Docker images using uv's python](https://mkennedy.codes/posts/python-docker-images-using-uv-s-new-python-features/)
