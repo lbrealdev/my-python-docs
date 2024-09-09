@@ -52,6 +52,7 @@
 
 - [The difference between return and print in Python](https://www.pythonmorsels.com/print-vs-return/)
 - [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
+- [Data structures contain pointers](https://www.pythonmorsels.com/data-structures-contain-pointers/)
 
 ## Test Driven
 > Website: https://testdriven.io/
