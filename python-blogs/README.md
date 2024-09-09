@@ -19,6 +19,7 @@
 
 - [Breaking out of nested loops with generators](https://mathspp.com/blog/breaking-out-of-nested-loops-with-generators)
 - [503 days working full-time on FOSS: lessons learned](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned)
+- [TIL #103 – debugging the new Python REPL with trace and PYREPL_TRACE.](https://mathspp.com/blog/til/debugging-the-new-python-repl-with-trace-and-pyrepl-trace)
 
 ## The Python Papers
 > Website: https://www.pythonpapers.com
