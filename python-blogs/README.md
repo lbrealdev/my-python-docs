@@ -19,6 +19,7 @@
 
 - [Breaking out of nested loops with generators](https://mathspp.com/blog/breaking-out-of-nested-loops-with-generators)
 - [503 days working full-time on FOSS: lessons learned](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned)
+- [TIL #103 – debugging the new Python REPL with trace and PYREPL_TRACE.](https://mathspp.com/blog/til/debugging-the-new-python-repl-with-trace-and-pyrepl-trace)
 
 ## The Python Papers
 > Website: https://www.pythonpapers.com
@@ -52,6 +53,7 @@
 
 - [The difference between return and print in Python](https://www.pythonmorsels.com/print-vs-return/)
 - [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
+- [Data structures contain pointers](https://www.pythonmorsels.com/data-structures-contain-pointers/)
 
 ## Test Driven
 > Website: https://testdriven.io/
@@ -104,3 +106,8 @@
 - [Resource management and generators in Python](https://samgeo.codes/python-generator-cleanup/)
 - [Free-threaded CPython is ready to experiment with!](https://labs.quansight.org/blog/free-threaded-python-rollout)
 - [Proper Python Project Structure 2024](https://matt.sh/python-project-structure-2024)
+- [Layman's Guide to Python Built-in Functions](https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions/)
+- [Production-ready Docker Containers with uv](https://hynek.me/articles/docker-uv/)
+- [Docker images using uv's python](https://mkennedy.codes/posts/python-docker-images-using-uv-s-new-python-features/)
+- [Multiversion Python Thoughts](https://lucumr.pocoo.org/2024/9/9/multiversion-python/)
+- [Please don't hijack my Python root logger](https://rednafi.com/python/no_hijack_root_logger/)
