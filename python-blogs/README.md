@@ -87,6 +87,10 @@
 - [Python as a configuration language](https://www.bitecode.dev/p/python-as-a-configuration-language)
 - [Unexpected python traps for beginners](https://www.bitecode.dev/p/unexpected-python-traps-for-beginners)
 
+## Tusha's blog
+> Website: https://tush.ar/
+
+- [Replacing pyinstaller with 100 lines of code](https://tush.ar/post/packaged/)
 -------------
 
 ## Blogs from Python to Rust
