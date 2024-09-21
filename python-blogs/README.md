@@ -13,6 +13,9 @@
 - [Python Mappings: A Comprehensive Guide](https://realpython.com/python-mappings/)
 - [Logging in Python](https://realpython.com/python-logging/)
 - [Asynchronous Iterators and Iterables in Python](https://realpython.com/python-async-iterators/)
+- [How to Use Generators and yield in Python](https://realpython.com/introduction-to-python-generators/)
+- [Defining Main Functions in Python](https://realpython.com/python-main-function/)
+- [Python's Built-in Functions: A Complete Exploration](https://realpython.com/python-built-in-functions/)
 
 ## Mathspp
 > Website: https://mathspp.com
@@ -94,9 +97,10 @@
 - [Replacing pyinstaller with 100 lines of code](https://tush.ar/post/packaged/)
 -------------
 
-## Blogs from Python to Rust
+## Blogs Python / Rust
 
 - [A Pythonista Learning Rust](https://apythonistalearningrust.com/)
+- [Let’s build and optimize a Rust extension for Python](https://pythonspeed.com/articles/intro-rust-python-extensions/)
 
 ## Blogs about Python (all):
 
@@ -115,8 +119,8 @@
 - [Multiversion Python Thoughts](https://lucumr.pocoo.org/2024/9/9/multiversion-python/)
 - [Please don't hijack my Python root logger](https://rednafi.com/python/no_hijack_root_logger/)
 - [How to Create a Pre-Commit Hook](https://stefaniemolin.com/articles/devx/pre-commit/hook-creation-guide/)
+- [Articles: Production-ready Docker packaging for Python developers](https://pythonspeed.com/docker/)
 
 ## Python Releases
 
 - [What’s New in Python](https://docs.python.org/3.13/whatsnew/index.html)
-
