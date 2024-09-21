@@ -4,6 +4,10 @@
 
 - [Packaging python](https://packaging.python.org/en/latest/)
 
+#### Discussions
+
+- [src layout vs flat layout](https://packaging.python.org/en/latest/discussions/src-layout-vs-flat-layout/)
+
 ## Python package tools
 
 - [uv](https://github.com/lbrealdev/0k-python/blob/main/python-packaging/uv.md)
