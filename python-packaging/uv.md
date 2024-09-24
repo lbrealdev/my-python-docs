@@ -1,6 +1,19 @@
 # uv: An extremely fast Python package and project manager, written in Rust.
 
-// to do
+Installing `uv`:
+```shell
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+To enable shell autocompletion for uv commands, run one of the following:
+```shell
+echo 'eval "$(uv generate-shell-completion bash)"' >> ~/.bashrc
+```
+
+Unistalling `uv`:
+```shell
+rm ~/.cargo/bin/uv ~/.cargo/bin/uvx
+```
 
 ### Source
 
