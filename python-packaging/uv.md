@@ -1,5 +1,7 @@
 # uv: An extremely fast Python package and project manager, written in Rust.
 
+### Setup
+
 Installing `uv`:
 ```shell
 curl -LsSf https://astral.sh/uv/install.sh | sh
@@ -15,6 +17,11 @@ Unistalling `uv`:
 rm ~/.cargo/bin/uv ~/.cargo/bin/uvx
 ```
 
+Install a specific Python version:
+```shell
+uv python install 3.12
+```
+
 ### Source
 
 - Website: https://docs.astral.sh/uv/
@@ -28,3 +35,4 @@ rm ~/.cargo/bin/uv ~/.cargo/bin/uvx
 - [Switching from pyenv to uv](https://bluesock.org/~willkg/blog/dev/switch_pyenv_to_uv.html)
 - [Docker images using uv's python](https://mkennedy.codes/posts/python-docker-images-using-uv-s-new-python-features/)
 - [Production-ready Docker Containers with uv](https://hynek.me/articles/docker-uv/)
+- [Switching from virtualenvwrapper to direnv, Starship, and uv](https://treyhunner.com/2024/10/switching-from-virtualenvwrapper-to-direnv-starship-and-uv/)
