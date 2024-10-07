@@ -133,6 +133,7 @@
 - [Why you should be using pathlib](https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/)
 - [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/)
 - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
+- [Let's go easy on PyPI, OK?](https://mkennedy.codes/posts/lets-go-easy-on-pypi-ok/)
 
 ## Python Releases
 
