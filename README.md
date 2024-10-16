@@ -25,3 +25,11 @@ Python official page: https://www.python.org/
 ## Python EOL and Support
 
 - [Python EOL](https://endoflife.date/python)
+
+## Python Cheat
+
+- [SpeedSheet - Python Sheet](https://speedsheet.io/s/python)
+
+## Python Forums
+
+- [Discuss Python](https://discuss.python.org/latest)

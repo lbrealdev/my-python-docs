@@ -21,6 +21,8 @@
 - [Python Classes: The Power of Object-Oriented Programming](https://realpython.com/python-classes/)
 - [Python Protocols: Leveraging Structural Subtyping](https://realpython.com/python-protocol/#dynamic-and-static-typing-in-python)
 - [Duck Typing in Python: Writing Flexible and Decoupled Code](https://realpython.com/duck-typing-python/)
+- [Python's pathlib Module: Taming the File System](https://realpython.com/python-pathlib/)
+- [What Are Python Wheels and Why Should You Care?](https://realpython.com/python-wheels/)
 
 ## Mathspp
 > Website: https://mathspp.com
@@ -134,6 +136,8 @@
 - [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/)
 - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
 - [Let's go easy on PyPI, OK?](https://mkennedy.codes/posts/lets-go-easy-on-pypi-ok/)
+- [The Ultimate Guide to Error Handling in Python](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python)
+- [__init__.py files are optional. Here's why you should still use them](https://dev.arie.bovenberg.net/blog/still-use-init-py/)
 
 ## Python Releases
 
