@@ -4,9 +4,13 @@
 
 - [Packaging python](https://packaging.python.org/en/latest/)
 
-#### Discussions
+#### Guides
 
 - [src layout vs flat layout](https://packaging.python.org/en/latest/discussions/src-layout-vs-flat-layout/)
+- [inline script metadata](https://packaging.python.org/en/latest/specifications/inline-script-metadata/#inline-script-metadata)
+- [Entry Points](https://setuptools.pypa.io/en/latest/userguide/entry_point.html)
+- [Development Mode (a.k.a. “Editable Installs”)](https://setuptools.pypa.io/en/latest/userguide/development_mode.html)
+- []()
 
 ## Python package tools
 
@@ -22,3 +26,7 @@
 - [Oven](https://pyoven.org/)
 - [PyPi Browser](https://pypi-browser.org/)
 - [PyPi Scout](https://pypiscout.com/)
+
+## Python Package Glossary
+
+- https://packaging.python.org/en/latest/glossary/#term-built-distribution

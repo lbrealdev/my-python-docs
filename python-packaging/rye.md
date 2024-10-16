@@ -6,7 +6,7 @@ Rye is a comprehensive project and package management solution for Python.
 
 Installing Rye:
 ```shell
-curl -sSf https://rye.astral.sh/get | RYE_INSTALL_OPTION="--yes" bash
+curl -fsSL https://rye.astral.sh/get | RYE_INSTALL_OPTION="--yes" bash
 ```
 
 Add Shims to path:
