@@ -22,6 +22,8 @@ week = current_date.strftime("%A")
 satuday = first_day_week + timedelta(days=5)
 sunday = first_day_week + timedelta(days=6)
 
+print()
+print()
 print(f"Currenty date: {_date}")
 print(f"Currenty time: {_time}")
 print(f"Week number [ISO format]: {week_number_iso}")

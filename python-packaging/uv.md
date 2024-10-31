@@ -22,6 +22,11 @@ Install a specific Python version:
 uv python install 3.12
 ```
 
+Update uv to the latest version:
+```shell
+uv self update
+```
+
 ### Source
 
 - Website: https://docs.astral.sh/uv/
