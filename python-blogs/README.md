@@ -23,6 +23,7 @@
 - [Duck Typing in Python: Writing Flexible and Decoupled Code](https://realpython.com/duck-typing-python/)
 - [Python's pathlib Module: Taming the File System](https://realpython.com/python-pathlib/)
 - [What Are Python Wheels and Why Should You Care?](https://realpython.com/python-wheels/)
+- [Python Closures: Common Use Cases and Examples](https://realpython.com/python-closure/)
 
 ## Mathspp
 > Website: https://mathspp.com
@@ -49,6 +50,7 @@
 
 
 - [`bytes`: The Lesser-Known Python Built-In Sequence • And Understanding UTF-8 Encoding](https://www.thepythoncodingstack.com/p/bytes-python-built-in-unicode-utf-8-encoding)
+- [After You. No, I Insist, You Go First • Python's Operator Precedence](https://www.thepythoncodingstack.com/p/python-operator-precedence-after-you-no-i-insist)
 
 ## Python Engineer
 > Website: https://www.python-engineer.com
