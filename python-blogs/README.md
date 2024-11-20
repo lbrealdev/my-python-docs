@@ -24,6 +24,7 @@
 - [Python's pathlib Module: Taming the File System](https://realpython.com/python-pathlib/)
 - [What Are Python Wheels and Why Should You Care?](https://realpython.com/python-wheels/)
 - [Python Closures: Common Use Cases and Examples](https://realpython.com/python-closure/)
+- [Python '!=' Is Not 'is not': Comparing Objects in Python](https://realpython.com/python-is-identity-vs-equality/)
 
 ## Mathspp
 > Website: https://mathspp.com
@@ -69,6 +70,7 @@
 - [Data structures contain pointers](https://www.pythonmorsels.com/data-structures-contain-pointers/)
 - [Converting a string to a datetime](https://www.pythonmorsels.com/converting-a-string-to-a-datetime/)
 - [Find your strptime/strftime format](https://www.pythonmorsels.com/strptime/#formats)
+- [Python's pathlib module](https://www.pythonmorsels.com/pathlib-module/)
 
 ## Test Driven
 > Website: https://testdriven.io/
