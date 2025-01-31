@@ -25,6 +25,7 @@
 - [What Are Python Wheels and Why Should You Care?](https://realpython.com/python-wheels/)
 - [Python Closures: Common Use Cases and Examples](https://realpython.com/python-closure/)
 - [Python '!=' Is Not 'is not': Comparing Objects in Python](https://realpython.com/python-is-identity-vs-equality/)
+- [Continuous Integration and Deployment for Python With GitHub Actions](https://realpython.com/github-actions-python/)
 
 ## Mathspp
 > Website: https://mathspp.com
@@ -52,6 +53,7 @@
 
 - [`bytes`: The Lesser-Known Python Built-In Sequence • And Understanding UTF-8 Encoding](https://www.thepythoncodingstack.com/p/bytes-python-built-in-unicode-utf-8-encoding)
 - [After You. No, I Insist, You Go First • Python's Operator Precedence](https://www.thepythoncodingstack.com/p/python-operator-precedence-after-you-no-i-insist)
+- [The Shortest Python `import` Tutorial • A Picture Story](https://www.thepythoncodingstack.com/p/the-shortest-python-import-tutorial)
 
 ## Python Engineer
 > Website: https://www.python-engineer.com
@@ -142,7 +144,12 @@
 - [Let's go easy on PyPI, OK?](https://mkennedy.codes/posts/lets-go-easy-on-pypi-ok/)
 - [The Ultimate Guide to Error Handling in Python](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python)
 - [__init__.py files are optional. Here's why you should still use them](https://dev.arie.bovenberg.net/blog/still-use-init-py/)
+- [How to Use Regular Expressions in Python](https://blog.appsignal.com/2025/01/15/how-to-use-regular-expressions-in-python.html)
 
 ## Python Releases
 
 - [What’s New in Python](https://docs.python.org/3.13/whatsnew/index.html)
+
+## Python Twitter Threads
+
+- [What is a "standalone" Python build?](https://x.com/charliermarsh/status/1864050698574311561)
